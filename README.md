@@ -1,5 +1,14 @@
-### Hi there 👋
-![Snake animation](https://github.com/andreiaptarifa/andreiaptarifa/blob/output/github-contribution-grid-snake.svg)
+### Hi there, I'm Andreia 👋
+
+## My Stats
+<p>
+<a href="https://github.com/andreiaptarifa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreiaptarifa&count_private=true&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreiaptarifa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![snake gif](https://github.com/andreiaptarifa/andreiaptarifa/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **andreiaptarifa/andreiaptarifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
