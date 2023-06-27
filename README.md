@@ -1,37 +1,24 @@
 ### Hi there, I'm Andreia 👋
 
-I'm a software engineer from Brazil. Before changing my career to web development, I worked for 7 years in the Payments industry in Brazil - the last year as a Product Manager 💼 -, focused on providing accessible solutions for the unbanked population.
-
-My programming languages are Ruby :heart: and JavaScript 💛. Currently, I’m honing my skills in React ⚛️.
-
-I thrive in dynamic environments that foster innovation and collaboration, and I'm always seeking new opportunities to contribute to projects that make a difference.
-
-**Languages**: Ruby, JavaScript, SQL
-**Frameworks**: Rails, Sinatra, React
-**DB**: PostgreSQL, MySQL, SQLite
-**Interests**: Behavioural Economics, Neuroscience, Languages, Jazz, Prog Rock
-
-## :octocat: Github Stats
+<p>I'm a cat lover and a software engineer from Brazil.</p>
 <p>
-<a href="https://github.com/andreiaptarifa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreiaptarifa&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreiaptarifa&layout=compact&langs_count=6&theme=midnight-purple"/>
-</a>
+  Before discovering my love for coding, I studied Economics and spent several years in the Payments industry, where I even got to be a product manager for a year. But then I realized how much I enjoyed programming and decided to take the plunge into full-time software development.
 </p>
+
+<p>🌱 Currently, I’m honing my skills in React ⚛️.</p>
+
+<p><b>Programming Languages</b>: Ruby, JavaScript, SQL</p>
+<p><b>Frameworks</b>: Rails, Sinatra, React</p>
+<p><b>DB</b>: PostgreSQL, MySQL, SQLite</p>
+<p><b>Hobbies:** Learning new languages, going to gigs, exploring the world of books, swimming, and spending time outdoors in nature :ear_of_rice:</p>
+<p><b>Languages</b>: Portuguese(native), English(C1), Italian(B2), Spanish(B1), Norwegian(A2)</p>
 
 ![snake gif](https://github.com/andreiaptarifa/andreiaptarifa/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**andreiaptarifa/andreiaptarifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :octocat: Github Stats
+<p>
+  <a href="https://github.com/andreiaptarifa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreiaptarifa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreiaptarifa&layout=compact&langs_count=6&theme=midnight-purple"/>
+  </a>
+</p>
