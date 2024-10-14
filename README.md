@@ -5,8 +5,6 @@
   Before discovering my love for coding, I studied Economics and spent several years in the Payments industry, where I even got to be a product manager for a year. But then I realized how much I enjoyed programming and decided to take the plunge into full-time software development.
 </p>
 
-<p>🌱 Currently, I’m honing my skills in React ⚛️.</p>
-
 <p><b>Programming Languages</b>: Ruby, JavaScript, SQL</p>
 <p><b>Frameworks</b>: Rails, Sinatra, React</p>
 <p><b>DB</b>: PostgreSQL, MySQL, SQLite</p>
